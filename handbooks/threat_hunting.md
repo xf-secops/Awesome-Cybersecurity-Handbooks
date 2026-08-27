@@ -87,6 +87,14 @@ summarize
 | bin | Rounds all values in a timeframe and groups them | `bin(StartTime, 1d)` |
 | let | Allows you to create and set a variable or assign a name to an expression | `let aWeekAgo = ago(7d);SigninLogs \| where TimeGenerated >= aWeekAgo` |
 
+### Base64 Decode
+
+> https://learn.microsoft.com/en-us/kusto/query/base64-decode-tostring-function?view=microsoft-fabric
+
+```console
+print Quine=base64_decode_tostring("S3VzdG8=")
+```
+
 ### Detect Credential Dumping via Suspicious Modules
 
 ```console

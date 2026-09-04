@@ -265,6 +265,7 @@
 | --- | --- | --- |
 | n/a | ADCSCoercePotato LPE | https://github.com/decoder-it/ADCSCoercePotato |
 | n/a | CoercedPotato LPE | https://github.com/Prepouce/CoercedPotato |
+| n/a | CouchPotato LPE | https://github.com/aaron-kidwell/CouchPotato |
 | n/a | DCOMPotato LPE | https://github.com/zcgonvh/DCOMPotato |
 | n/a | DeadPotato LPE | https://github.com/lypd0/DeadPotato |
 | n/a | GenericPotato LPE | https://github.com/micahvandeusen/GenericPotato |

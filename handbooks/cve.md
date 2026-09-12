@@ -226,6 +226,7 @@
 | CVE-2026-46300 | Fragnesia Universal Linux LPE | https://github.com/v12-security/pocs/blob/main/fragnesia%2FREADME.md |
 | CVE-2026-54121 | Certighost | https://github.com/aniqfakhrul/CVE-2026-54121 |
 | CVE-2026-63030, CVE-2026-6013 | wp2shell RCE | https://github.com/Icex0/wp2shell-poc |
+| CVE-2026-85706 | GitLab Unauthenticated Arbitrary File Read | https://github.com/guneykabel/cve-2026-85706 |
 
 ### Miscellaneous Exploits
 
